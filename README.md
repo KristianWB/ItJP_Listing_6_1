@@ -1,6 +1,6 @@
 # ItJP_Listing_6_1
 
-Name of projekt is: Hello world
+Name of projekt is: Test Max
 
 No prerequestes other than an IDE (ie. Intellij)
 
